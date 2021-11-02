@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  background: white;
+}
+
+.content {
+  max-width: 750px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+}
+
+ul {
+    text-align: left;
+    font-size: 18pt;
+    list-style-position: inside;
+}
+</style>
+</head>
+<body>
+
+<div class="content">
+   <center>
+   <h1>Hello, my name is Dominick Ropella</h1>
+  <p>I am currently a graduate student at Vanderbilt University. Here are some things that I have worked on:</p>
+  <ul>
+  <li><a href="http://research.vuse.vanderbilt.edu/MEDLab/sites/default/files/papers/compressed_PDF_file.pdf">Robotic Prostatectomy</a></li>
+  <li><a href="https://lab.vanderbilt.edu/medlab/">Open Source Ventillator</a></li>
+  <li><a href="http://research.vuse.vanderbilt.edu/MEDLab/sites/default/files/papers/BrunsMagneticRAL2020.pdf">Magnetic Steering of Cochlear Implants</a></li>
+  <li><a href="http://research.vuse.vanderbilt.edu/MEDLab/sites/default/files/papers/RoxTMech_reduced.pdf">Robotic Neuroendoscopy</a></li>
+  </ul>
+  
+  <p> I also have a github page <a href="https://github.com/ropellad">here</a>.</p>
+  </center>
+</div>
+
+</body>
+</html>
+
